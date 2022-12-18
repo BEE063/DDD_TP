@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbdy3avhzHj1SRjx6BIU82TEflFyTjHG+R3VxIPmV0xijBA0lS6NOAiI3D5DTwWFbCRBW2ytNeWhEa4IIPZF1Q==",
+  "success": true,
+  "projectFilePath": "/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/DDD_TP.csproj",
+  "expectedPackageFiles": [
+    "/Users/ekaterina/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

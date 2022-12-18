@@ -1,0 +1,12 @@
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/bin/Debug/netcoreapp3.1/DDD_TP.deps.json
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/bin/Debug/netcoreapp3.1/DDD_TP.runtimeconfig.json
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/bin/Debug/netcoreapp3.1/DDD_TP.runtimeconfig.dev.json
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/bin/Debug/netcoreapp3.1/DDD_TP.dll
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/bin/Debug/netcoreapp3.1/DDD_TP.pdb
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.csprojAssemblyReference.cache
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.AssemblyInfoInputs.cache
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.AssemblyInfo.cs
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.csproj.CoreCompileInputs.cache
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.dll
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.pdb
+/Users/ekaterina/RiderProjects/DDD_TP/DDD_TP/obj/Debug/netcoreapp3.1/DDD_TP.genruntimeconfig.cache
